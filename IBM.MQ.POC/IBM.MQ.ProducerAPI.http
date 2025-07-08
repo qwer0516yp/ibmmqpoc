@@ -1,0 +1,6 @@
+@IBM.MQ.POC_HostAddress = http://localhost:5172
+
+GET {{IBM.MQ.POC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
